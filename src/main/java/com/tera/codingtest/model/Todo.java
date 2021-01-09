@@ -8,7 +8,6 @@ import javax.persistence.ManyToOne;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
-import net.bytebuddy.implementation.bind.annotation.IgnoreForBinding;
 
 @Entity(name = "todo")
 public class Todo {

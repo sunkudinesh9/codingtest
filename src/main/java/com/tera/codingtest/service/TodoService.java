@@ -6,7 +6,6 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.tera.codingtest.model.Post;
 import com.tera.codingtest.model.Todo;
 import com.tera.codingtest.model.User;
 import com.tera.codingtest.repository.TodoRepository;
